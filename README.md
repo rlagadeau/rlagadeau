@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=rosanolagadeau.com&style=for-the-badge&url=https://rosanolagadeau.com)](https://rosanolagadeau.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rlagadeau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RLAGADEAU)
 
-## I'm a Developer, Ethical Hacker and IoT specialist!!
+## I'm a Developer, Ethical Hacker and IoT specialist!
 
-- 2022 Goals: Contribute to open source projects
+- 2023 Goals: Contribute to open source projects
 - Fun fact: I love to play drums and football
 - I’m looking to collaborate with others on software and IoT projects
 
